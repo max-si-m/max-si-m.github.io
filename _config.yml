@@ -50,3 +50,5 @@ defaults:
       type: "posts"
     values:
       layout: "default"
+# gems:
+#   - jekyll-sitemap
