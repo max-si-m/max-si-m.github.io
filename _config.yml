@@ -10,9 +10,9 @@ permalink:           /:title
 # Setup
 timezone:            Europe/Kiev # eg. Asia/Kathmandu
 locale:              en_us # eg. en_us
-name:				         Web Scraping
+name:				         'Web Scraping'
 title:               Scraping
-tagline:             'tagline'
+tagline:             'scraping, parsing, python, ruby'
 description:         'description'
 url:                 'http://max-si-m.github.io/'
 rss:                 rss feed url
@@ -22,18 +22,18 @@ baseurl_featured_img: '/assets/images/hero/'
 baseurl_featured_thumbnail: '/assets/images/thumbnail/'
 baseurl_javascripts: '/assets/javascripts/'
 icon:                your site icon path # /assets/img/icon.png [best 300px X 300px]
-disqus:              disqus_shortname # get it on https://disqus.com/admin/
+disqus:              scrapingblog # get it on https://disqus.com/admin/
 
 author:
-  name:           	 'Maxim Djuliy'
-  url:            	 your site url
+  name:           	 'Maxim Dzhuliy'
+  url:            	 'http://max-si-m.github.io/'
   facebook:          Maxim Dzhuliy
   twitter:           max_si_m
+  github:            max-si-m
   google_plus:       username
   linkedin:          username
   dribbble:          username
   pinterest:         username
-  kiva:              username
 
 fb_admins:           your facebook profile id
 fb_appid:            your facebook app id
@@ -41,7 +41,7 @@ fb_appid:            your facebook app id
 # Server
 destination:      	 ./_site
 exclude:          	 [".editorconfig", ".gitignore", "bower.json", "composer.json", "CONTRIBUTING.md", "CNAME", "LICENSE", "Gruntfile.js", "package.json", "node_modules", "README.md", "sass", "haml"]
-port:             	 9001
+port:             	 4000
 
 defaults:
   -
