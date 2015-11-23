@@ -12,6 +12,10 @@ image:
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
+sitemap:
+    priority: 0.7
+    changefreq: 'monthly'
+    last_modified_at:  2015-11-21 01:00:00
 ---
 
 Lorem ipsum dolor sit amet, eu mel iuvaret blandit. Nusquam noluisse invenire et vis, labores commune tincidunt ea sit. Ad has animal constituam, id nullam quidam quo. Inani latine laoreet ex mei, te pro simul causae maluisset.
