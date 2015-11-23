@@ -14,8 +14,8 @@ name:				         'Web Scraping'
 title:               Scraping
 tagline:             'scraping, parsing, python, ruby'
 description:         'description'
-url:                 'http://max-si-m.github.io/'
-rss:                 rss feed url
+url:                 'http://max-si-m.github.io'
+rss:                 'feed.xml'
 baseurl:             '/'
 baseurl_posts_img:   '/assets/images/posts/'
 baseurl_featured_img: '/assets/images/hero/'
@@ -27,11 +27,11 @@ disqus:              scrapingblog # get it on https://disqus.com/admin/
 author:
   name:           	 'Maxim Dzhuliy'
   url:            	 'http://max-si-m.github.io/'
-  facebook:          Maxim Dzhuliy
+  facebook:          max.djuliy
   twitter:           max_si_m
   github:            max-si-m
   google_plus:       username
-  linkedin:          username
+  linkedin:          maximdjuliy
   dribbble:          username
   pinterest:         username
 
