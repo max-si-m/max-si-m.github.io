@@ -13,7 +13,7 @@ locale:              en_us # eg. en_us
 name:				         'Web Scraping'
 title:               Scraping
 tagline:             'scraping, parsing, python, ruby'
-description:         'description'
+description:         "My name is Max. I'm web developer interesting in make bots, scraping, parsing, big data and data mining"
 url:                 'http://max-si-m.github.io'
 rss:                 'feed.xml'
 baseurl:             '/'
