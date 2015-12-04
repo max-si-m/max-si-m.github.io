@@ -27,8 +27,8 @@ disqus:              scrapingblog # get it on https://disqus.com/admin/
 author:
   name:           	 'Maxim Dzhuliy'
   url:            	 'http://max-si-m.github.io/'
-  facebook:          max.djuliy
-  twitter:           max_si_m
+  facebook:          wscraping
+  twitter:           wscraping
   github:            max-si-m
   google_plus:       username
   linkedin:          maximdjuliy

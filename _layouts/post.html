@@ -68,7 +68,7 @@ layout: default
           {% if page.previous.image.feature %}
             src="{{ page.previous.image.feature | prepend: site.baseurl_featured_img }}"
           {% endif %}
-          style="top:0" alt="">
+          style="top:0" alt="{{page.previous.title}}">
         </div>
         <div class="section-gradient
         {% if page.previous.bgGradientOpacity == "darker" %}
@@ -79,7 +79,7 @@ layout: default
         "></div>
         <div class="section-title u-tableCell u-verticalAlignMiddle">
           <div class="container">
-            <h4>Next story:</h4>
+            <h4>Previous post:</h4>
             <a class="prev" href="{{page.previous.url}}">
               <h2>{{page.previous.title}}</h2>
             </a>
