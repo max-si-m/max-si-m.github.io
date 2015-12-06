@@ -487,6 +487,11 @@ hr {
   height: 24rem;
 }
 
+.responsive-img {
+  width: 100%;
+  height: auto;
+}
+
 html,
 body {
   overflow-x: hidden;
