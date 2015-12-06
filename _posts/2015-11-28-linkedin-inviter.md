@@ -2,8 +2,8 @@
 layout: post
 title:  "Linkedin inviter - improve your social connections via JavaScript"
 date:   2015-11-28 01:00:00
-last_modified_at:  2015-11-28 01:00:00
-excerpt: "Linkedin - it's a large social network for IT professionals, with a lot of users. Today we make a very simple script for automatically send a connection request(or just add to your network). I don't know who will be read this post, but I oriented on programmers and recruiters who want increase your connections."
+last_modified_at:  2015-12-05 01:00:00
+excerpt: "How to make automatical inviter for Linkedin on JavaScript. Simple bot for Linkedin"
 categories: bots
 tags:  [js, authomation, inviting]
 image:
@@ -15,7 +15,7 @@ syntaxHighlighter: yes
 sitemap:
     priority: 0.7
     changefreq: 'monthly'
-    last_modified_at:  2015-11-28 01:00:00
+    last_modified_at:  2015-12-05 01:00:00
 ---
 
 # Linkedin inviter

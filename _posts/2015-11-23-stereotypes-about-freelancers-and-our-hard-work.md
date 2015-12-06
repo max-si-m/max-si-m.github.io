@@ -2,8 +2,8 @@
 layout: post
 title:  "Stereotypes about freelancers and our hard work"
 date:   2015-11-23 01:00:00
-last_modified_at:  2015-11-23 01:00:00
-excerpt: "Freelancer - is a people whose work is change the world!"
+last_modified_at:  2015-12-05 01:00:00
+excerpt: "We are destroying all stereotypes about freelancers. Freelancer - is a people whose work is change the world!"
 categories: bloging
 tags:  freelance
 image:
@@ -15,8 +15,9 @@ syntaxHighlighter: no
 sitemap:
     priority: 0.7
     changefreq: 'monthly'
-    last_modified_at:  2015-11-23 01:00:00
+    last_modified_at:  2015-12-05 01:00:00
 ---
+
 A little in defense of the profession. Show it to those who build their views on guesswork! In any of the activities, there are an a lot of stereotypes about workers. We will dispel several wide-spread - about **freelancers**.
 Free workers are not deprived of attention, stereotypes about them, even more than about the rest of the people, so about what people talk mostly unknowingly:
 
