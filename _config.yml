@@ -4,14 +4,12 @@ markdown:            kramdown
 highlighter:         pygments
 
 # Permalinks
-permalink:           :title
-# relative_permalinks: true
-
+permalink:           /:title
 # Setup
 timezone:            Europe/Kiev # eg. Asia/Kathmandu
 locale:              en_us # eg. en_us
 name:				         'Web Scraping'
-title:               Scraping
+title:               Web Scraping
 tagline:             'scraping, parsing, python, ruby'
 description:         "My name is Max. I'm web developer interesting in make bots, scraping, parsing, big data and data mining"
 url:                 'http://max-si-m.github.io'
