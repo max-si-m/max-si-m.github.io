@@ -4,7 +4,7 @@ markdown:            kramdown
 highlighter:         pygments
 
 # Permalinks
-permalink:           /:title
+permalink:           :title
 # relative_permalinks: true
 
 # Setup
@@ -26,7 +26,7 @@ disqus:              scrapingblog # get it on https://disqus.com/admin/
 
 author:
   name:           	 'Maxim Dzhuliy'
-  url:            	 'http://max-si-m.github.io/'
+  url:            	 'http://max-si-m.github.io'
   facebook:          wscraping
   twitter:           wscraping
   github:            max-si-m
