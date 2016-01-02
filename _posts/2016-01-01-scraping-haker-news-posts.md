@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Scrape Hacker News newest posts"
+title:  "Scrape Hacker News newest posts with Mechanize"
 date:   2016-01-01 01:00:00
 last_modified_at:  2016-01-01 01:00:00
 excerpt: "Simple post about scraping Hacker News newest posts"
