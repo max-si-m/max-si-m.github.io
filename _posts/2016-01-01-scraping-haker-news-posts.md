@@ -175,4 +175,4 @@ parser.parse_links(nil, 5) # it mean: we parse only 5 pages without needed id
 
 ## Summary
 
-We make a simple parser for **Hacker News**. If you have some question or proposition send pull request <a href="https://github.com/WScraping/hacker_news" rel="nofollow" target="_blank">WScraping/hacker_news</a>
+We make a simple parser for **Hacker News**. If you have some question or proposition send pull request <a href="https://github.com/WScraping/hacker_news" target="_blank">WScraping/hacker_news</a>. If you like this post you can show next post <a href='http://max-si-m.github.io/scraping-jobs-from-haker-news/' target='_blank'> about scraping jobs from hacker news</a>
