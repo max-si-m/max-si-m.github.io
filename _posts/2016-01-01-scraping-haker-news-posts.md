@@ -2,7 +2,7 @@
 layout: post
 title:  "Scrape Hacker News newest posts with Mechanize"
 date:   2016-01-01 01:00:00
-last_modified_at:  2016-01-01 01:00:00
+last_modified_at:  2016-01-14 21:00:00
 excerpt: "Simple post about scraping Hacker News newest posts"
 categories: web_scraping
 tags:  [ruby, mechanize, scraping]
@@ -15,7 +15,7 @@ syntaxHighlighter: yes
 sitemap:
     priority: 0.7
     changefreq: 'monthly'
-    last_modified_at:  2016-01-01 01:00:00
+    last_modified_at:  2016-01-14 21:00:00
 ---
 
 First post in 2016 year! I am very happy!!
